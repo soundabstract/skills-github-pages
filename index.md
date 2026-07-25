@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Homepage Title: Welcome to the Forest!
 ---

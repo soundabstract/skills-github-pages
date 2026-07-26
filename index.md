@@ -1,3 +1,3 @@
 ---
-Homepage Title: Welcome to the Forest!
+title: Welcome to the Forest!
 ---
